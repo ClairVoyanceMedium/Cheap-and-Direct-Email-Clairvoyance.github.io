@@ -1,42 +1,42 @@
-# Indique aux robots que toutes les pages peuvent être explorées, sauf restrictions spécifiées
+# robots.txt pour ClairvoyanceMedium.com
 User-agent: *
+Allow: /
+
+# Blocage des pages sensibles
 Disallow: /admin/
-Disallow: /tmp/
+Disallow: /login/
 Disallow: /private/
+Disallow: /confidential/
+Disallow: /stripe/
+Disallow: /payment/
+Disallow: /checkout/
 
-# Bloquer des URL avec paramètres inutiles pour l'indexation
-Disallow: /*?debug=true
-Disallow: /*?preview=true
+# Blocage des fichiers sensibles
+Disallow: /*.php$
+Disallow: /*.sql$
+Disallow: /*.env$
+Disallow: /*.log$
+Disallow: /*.bak$
+Disallow: /*.zip$
+Disallow: /*.tar.gz$
 
-# Permettre les fichiers nécessaires au bon affichage et fonctionnement
-Allow: /css/
-Allow: /js/
-Allow: /images/
+# Autoriser l'indexation des fichiers importants pour le SEO
+Allow: /*.html$
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.svg$
+Allow: /*.woff$
+Allow: /*.woff2$
 
-# Référencement des ressources multimédias
-Allow: *.png
-Allow: *.jpg
-Allow: *.webp
-Allow: *.css
-Allow: *.js
+# Blocage des paramètres d'URL inutiles pour éviter le contenu dupliqué
+Disallow: /*?*
+Disallow: /*&*
+Disallow: /*utm_*
+Disallow: /*session_id=*
+Disallow: /*ref=*
 
-# Fournir le chemin du fichier sitemap pour une meilleure indexation
-Sitemap: https://www.clairvoyancemedium.com/sitemap.xml
-
-# Autorisation pour les robots Google et Bing pour maximiser les campagnes publicitaires
-User-agent: Googlebot
-Allow: /
-User-agent: AdsBot-Google
-Allow: /
-User-agent: Bingbot
-Allow: /
-
-# Bloquer les robots nuisibles ou non désirés
-User-agent: BadBot
-Disallow: /
-User-agent: EvilScraper
-Disallow: /
-
-# Empêcher l'exploration des fichiers sensibles
-Disallow: /config/
-Disallow: /backup/
+# Sitemap
+Sitemap: https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/sitemap.xml
