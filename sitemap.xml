@@ -1,21 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/</loc>
-        <lastmod>2024-12-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/tarifs</loc>
-        <lastmod>2024-12-09</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Voyancepartelephonepaschere.github.io/contact</loc>
-        <lastmod>2024-12-09</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
+  
+  <!-- Page d'accueil -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Pages principales -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/about</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/services</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/testimonials</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/contact</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Pages de tarifs -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/pricing</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Pages de FAQ -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/faq</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Pages de politique de confidentialité et CGU -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/privacy-policy</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/terms-of-service</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Pages de produits/services -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/service/email-psychic-reading</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/service/love-psychic-reading</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/service/career-psychic-reading</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Pages de blog (si applicable) -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/blog</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/blog/how-to-choose-a-psychic</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Pages de témoignages -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/testimonials/emily</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://clairvoyancemedium.github.io/Cheap-and-Direct-Email-Clairvoyance.github.io/testimonials/john</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
